@@ -8,11 +8,7 @@
 ## Solutions along with Author's Tags
 <br>
 
-### Author :- [hitesh22rana](https://github.com/hitesh22rana)
 
-Questions:- 
-
-1) [Leetcode Question :- 7.Reverse Integer](7_Reverse_integer.cpp)
-
-2) [Leetcode Question :- 6.Zig-Zag Conversion](6_Zig-Zag_conversion.cpp)
-
+## 1) Author :- [shivi2912](https://github.com/shivi2912)
+Questions:-
+1) [URI : 1021](1021.cpp)
