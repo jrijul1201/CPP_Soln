@@ -15,6 +15,9 @@ Questions:-
 
 <hr>
 <br>
+2) [URI : 1066](1066.cpp)
+<hr>
+<br>
 
 ## 2) Author :- [Goldy-Singh](https://github.com/Goldy-Singh)
 Questions:-
