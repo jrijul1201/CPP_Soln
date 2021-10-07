@@ -15,7 +15,7 @@ Questions:-
 
 <hr>
 <br>
-2) [URI : 1066](1066.cpp)
+2) [URI : 1066](https://github.com/shivi2912/CPP_Soln/blob/master/URI%20Online%20Judge/1066.cpp)
 <hr>
 <br>
 
