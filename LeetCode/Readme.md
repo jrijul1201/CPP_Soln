@@ -16,3 +16,8 @@ Questions:-
 
 2) [Leetcode Question :- 6.Zig-Zag Conversion](6_Zig-Zag_conversion.cpp)
 
+### Author :- [HarshitMittal01](https://github.com/HarshitMittal01)
+Questions:- 
+
+1) [Leetcode Question :- 16.3Sum Closest](16_3Sum_Closest.cpp)
+2) [Leetcode Question :- 3.Longest Substring Without Repeating Characters](3_Longest_Substring_Without_Repeating_Characters.cpp)
