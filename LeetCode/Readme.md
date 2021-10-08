@@ -16,3 +16,11 @@ Questions:-
 
 2) [Leetcode Question :- 6.Zig-Zag Conversion](6_Zig-Zag_conversion.cpp)
 
+
+### Author :- [Chetan Thakral](https://github.com/chetan-2002)
+
+Questions:- 
+
+1) [Leetcode Question : 3 Sum](15.3-sum.cpp)
+
+
