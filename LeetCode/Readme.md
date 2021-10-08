@@ -13,8 +13,8 @@
 Questions:- 
 
 1) [Leetcode Question :- 7.Reverse Integer](7_Reverse_integer.cpp)
-
 2) [Leetcode Question :- 6.Zig-Zag Conversion](6_Zig-Zag_conversion.cpp)
+3) [Leetcode Question :- 54.Spiral Matrix](54_SPiral_Matrix.cpp)
 
 ### Author :- [HarshitMittal01](https://github.com/HarshitMittal01)
 Questions:- 
@@ -26,5 +26,5 @@ Questions:-
 ### Author :- [Chetan Thakral](https://github.com/chetan-2002)
 Questions:- 
 
-1) [Leetcode Question : 15.3 Sum](15.3-sum.cpp)
+1) [Leetcode Question :- 15.3 Sum](15.3-sum.cpp)
 2) [Leetcode Question :- 20. Valid Parentheses](20.valid-parentheses.cpp)
