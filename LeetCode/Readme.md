@@ -18,6 +18,8 @@ Questions:-
 4) [Leetcode Question :- 74.Search a 2D Matrix](74_Search_a_2D_Matrix.cpp)
 5) [Leetcode Question :- 75.Sort Colors](75_Sort_Colors.cpp)
 5) [Leetcode Question :- 81.Search in a Rotated Sorted ArrayII](81_Search_in_Rotated_Sorted_ArrayII.cpp)
+6) [Leetcode Question :- 807.Max Increase to keep city skyline](807_Max_Increase_to_keep_city_skyline.cpp)
+7) [Leetcode Question :- 1605.Find Valid Matrix given row and column sum](1605_Find_valid_matrix_given_row_and_column_sum.cpp)
 
 ### Author :- [HarshitMittal01](https://github.com/HarshitMittal01)
 Questions:- 
