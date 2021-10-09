@@ -13,8 +13,11 @@
 Questions:- 
 
 1) [Leetcode Question :- 7.Reverse Integer](7_Reverse_integer.cpp)
-
 2) [Leetcode Question :- 6.Zig-Zag Conversion](6_Zig-Zag_conversion.cpp)
+3) [Leetcode Question :- 54.Spiral Matrix](54_SPiral_Matrix.cpp)
+4) [Leetcode Question :- 74.Search a 2D Matrix](74_Search_a_2D_Matrix.cpp)
+5) [Leetcode Question :- 75.Sort Colors](75_Sort_Colors.cpp)
+5) [Leetcode Question :- 81.Search in a Rotated Sorted ArrayII](81_Search_in_Rotated_Sorted_ArrayII.cpp)
 
 ### Author :- [HarshitMittal01](https://github.com/HarshitMittal01)
 Questions:- 
