@@ -45,3 +45,11 @@ Questions:-
 
 <hr>
 <br>
+
+## 5) Author :- [jrijul1201](https://github.com/jrijul1201)
+
+Questions:- 
+1) [Codeforces : 1598B](1598B.cpp)
+
+<hr>
+<br>
