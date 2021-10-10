@@ -1,3 +1,9 @@
+/*  
+    Difficulty :- Easy
+    Ref :- https://leetcode.com/problems/implement-trie-prefix-tree/
+    Author :- AmitThakur [https://github.com/AmitThakur045]
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -10,7 +16,7 @@ public:
     Trie() {
         root = new TrieNode();
     }
-    
+
     void insert(string word) {
         TrieNode* node = root;
         for(auto ch : word) {
