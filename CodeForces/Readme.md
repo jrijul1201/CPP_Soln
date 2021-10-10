@@ -53,3 +53,12 @@ Questions:-
 
 <hr>
 <br>
+
+## 6) Author :- [sudhanshupatel-dev](https://github.com/sudhanshupatel-dev)
+
+Questions:- 
+1) [Codeforces : 1566A](1566A.cpp)
+2) [Codeforces : 1566B](1566B.cpp)
+3) [Codeforces : 1566D](1566D.cpp)
+<hr>
+<br>
