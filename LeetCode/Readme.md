@@ -56,3 +56,10 @@ Questions:-
 Questions:-
 
 1. [Leetcode Question :- 30_Substring with Concatenation of All Words](30_Substring_with_Concatenation_of_All_Words.cpp)
+
+### Author :- [Aditya Chandra](https://github.com/adityachandra1)
+
+Questions:-
+
+1. [Leetcode Question :- 1326_Minimum Number of Taps to Open to Water a Garden](1326_minimum_number_of_taps_to_water_a_garden.cpp)
+
