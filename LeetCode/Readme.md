@@ -38,6 +38,7 @@ Questions:-
 2. [Leetcode Question : 20. Valid Parentheses](20.valid-parentheses.cpp)
 3. [Leetcode Question : 11 Container with most water](11.container-with-most-water.cpp)
 4. [Leetcode Question : 37 Sudoku Solver](37.sudoku-solver.cpp)
+5. [Leetcode Question : 51 ](51.n-queens.cpp)
 
 
 ### Author :- [AmitThakur045](https://github.com/AmitThakur045)
