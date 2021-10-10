@@ -22,6 +22,8 @@ Questions:-
 6. [Leetcode Question :- 81.Search in a Rotated Sorted ArrayII](81_Search_in_Rotated_Sorted_ArrayII.cpp)
 7. [Leetcode Question :- 807.Max Increase to keep city skyline](807_Max_Increase_to_keep_city_skyline.cpp)
 8. [Leetcode Question :- 1605.Find Valid Matrix given row and column sum](1605_Find_valid_matrix_given_row_and_column_sum.cpp)
+9. [Leetcode Question :- 42.Trapping Rain Water](42_Trapping_rain_water.cpp)
+10. [Leetcode Question :- 1095.Find in Mountain Array](1095_Find_in_mountain_array.cpp)
 
 ### Author :- [HarshitMittal01](https://github.com/HarshitMittal01)
 
