@@ -1,5 +1,5 @@
 /*  
-    Difficulty :- Easy
+    Difficulty :- Medium
     Ref :- https://leetcode.com/problems/bitwise-and-of-numbers-range/
     Author :- AmitThakur [https://github.com/AmitThakur045]
 */

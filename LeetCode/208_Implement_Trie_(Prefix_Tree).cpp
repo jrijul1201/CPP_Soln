@@ -1,5 +1,5 @@
 /*  
-    Difficulty :- Easy
+    Difficulty :- Medium
     Ref :- https://leetcode.com/problems/implement-trie-prefix-tree/
     Author :- AmitThakur [https://github.com/AmitThakur045]
 */
