@@ -51,3 +51,10 @@ Questions:-
 Questions:-
 
 1. [Leetcode Question :- 30_Substring with Concatenation of All Words](30_Substring_with_Concatenation_of_All_Words.cpp)
+
+### Author :- [Nehal Agrawal](https://github.com/NehalAgrawal186)
+
+Questions:-
+
+1. [Leetcode Question :- 37_Sudoku Solver](37_SudokuSolver.cpp)
+
