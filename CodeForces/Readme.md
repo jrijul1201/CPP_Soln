@@ -50,6 +50,7 @@ Questions:-
 
 Questions:- 
 1) [Codeforces : 1598B](1598B.cpp)
+2) [Codeforces : 4C](4C.cpp)
 
 <hr>
 <br>
