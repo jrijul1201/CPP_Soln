@@ -34,6 +34,8 @@ Questions:-
 
 Questions:- 
 1) [Codeforces : 1560C](1560C.cpp)
+2) [Codeforces : 1560A](1560A.cpp)
+3) [Codeforces : 1598A](1598A.cpp)
 
 <hr>
 <br>
