@@ -61,6 +61,7 @@ Questions:-
 Questions:- 
 1) [Codeforces : 352A](352A.cpp)
 2) [Codeforces : 445A](445A.cpp)
-2) [Codeforces : 218B](218B.cpp)
+3) [Codeforces : 218B](218B.cpp)
+4) [Codeforces : 58A](58A.cpp)
 <hr>
 <br>
