@@ -24,6 +24,8 @@ Questions:-
 8. [Leetcode Question :- 1605.Find Valid Matrix given row and column sum](1605_Find_valid_matrix_given_row_and_column_sum.cpp)
 9. [Leetcode Question :- 42.Trapping Rain Water](42_Trapping_rain_water.cpp)
 10. [Leetcode Question :- 1095.Find in Mountain Array](1095_Find_in_mountain_array.cpp)
+11. [Leetcode Question :- 150.Evaluate Reverse Polish Notation](150_Evaluate_the_reverse_polish_notation.cpp)
+12. [Leetcode Question :- 1047. Remove All Adjacent Duplicates In String](1047_Remove_all_Adjacent_duplicates_in_string.cpp)
 
 ### Author :- [HarshitMittal01](https://github.com/HarshitMittal01)
 
