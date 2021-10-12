@@ -52,6 +52,7 @@ Questions:-
 1) [Codeforces : 1598B](1598B.cpp)
 2) [Codeforces : 4C](4C.cpp)
 3) [Codeforces : 1592B](1592B.cpp)
+4) [Codeforces : 1592A](1592A.cpp)
 
 <hr>
 <br>
