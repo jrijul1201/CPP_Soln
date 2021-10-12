@@ -1,41 +1,25 @@
+//https://codeforces.com/problemset/problem/1560/C
+//Author: piyushpandey2000
+
 #include<bits/stdc++.h>
 
-
 using namespace std;
-void loc(long long a){
-    double b;
-    long long p,r,c;
-    b=double(pow(a,0.5));
-    p=int(b);
-    if ((b-p)!=0)
-    {
-        /* code */
-        int t=a-pow(p,2)-p-1;
-        if(t>0){
-            r=(p+1);
-            c=(p+1-t);
-        }
-        else{
-            c=(p+1);
-            r=(t+p+1);
-        }
 
-    }
-    else{
-        r=p;
-        c=1;
-    }
-    cout<<r<<" "<<c<<endl;
-}
-
-int main(){
-    int t;
+int main()
+{
+    int t, k;
     cin>>t;
-    for(int i=0;i<t;i++){
-        long long a;
-        cin>>a;
-        loc(a);
+    while(t--)
+    {
+        cin>>k;
+
+        int last = int(sqrt(k*1.0));
+
+        if(last*last==k)
+            cout<<last<<" 1"<<"\n";
+        else if((k-last*last)<=last+1)
+            cout<<(k-last*last)<<" "<<last+1<<"\n";
+        else
+            cout<<last+1<<" "<<last-(k-last*last-last-1)+1<<"\n";
     }
-    
-    return 0;
 }

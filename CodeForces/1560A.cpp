@@ -1,40 +1,30 @@
+//https://codeforces.com/problemset/problem/1560/A
+//Author: piyushpandey2000
+
 #include<bits/stdc++.h>
 
 using namespace std;
-int main(){
-int t;
-cin>>t;
-for(int i=0;i<t;i++){
-    int a;
-    cin>>a;
-    int c=0;
-    int j=0;
-    int arr[10000];
-    while(j<a){
-    c+=1; 
-     if(c%3==0 ){
-         c=c+1;
-         if(c%10==3){
-             c+=1;
-             arr[j]=c;
-         }
-         else{
-         arr[j]=c;    
-         }
-         
-     }
-     else if(c%10==3){
-          c+=2;
-           arr[j]=c;
-     }
-     else{
-         arr[j]=c;
-     }
-    
-    j+=1;
+
+int main()
+{
+    vector<int> v(1000+1);
+    int val = 1, t, n;
+    for(int i=1; i<=1000; i++)
+    {
+        if(val%3==0 || val%10==3)
+            i--;
+        else
+            v[i] = val;
+        
+        val++;
     }
-  
-    cout<<arr[a-1]<<endl;
+
+    cin>>t;
+    while(t--)
+    {
+        cin>>n;
+        cout<<v[n]<<"\n";
+    }
 }
-return 0;
-}
+
+//AC
