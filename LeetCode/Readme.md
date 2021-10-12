@@ -67,3 +67,10 @@ Questions:-
 1. [Leetcode Question :- 45_Jump Game II](45_Jump-Game-II.cpp)
 2. [Leetcode Question :- 56_Merge Intervals](56_Merge-Intervals.cpp)
 3. [Leetcode Question :- 1326_Minimum Number of Taps to Open to Water a Garden](1326_minimum_number_of_taps_to_water_a_garden.cpp)
+
+### Author :- [vivek-0110](https://github.com/vivek-0110)
+
+Questions:-
+
+1. [Leetcode Problem :- 4_Median of Two Sorted Arrays](4_Median_Of_2_sorted_arrays.cpp)
+2. [Leetcode Problem :- 34_Find First and Last Position of Element in Sorted Array](34_Find_first_and_last_position_in_Sorted_Array.cpp)
