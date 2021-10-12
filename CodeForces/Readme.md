@@ -51,7 +51,15 @@ Questions:-
 Questions:- 
 1) [Codeforces : 1598B](1598B.cpp)
 2) [Codeforces : 4C](4C.cpp)
-2) [Codeforces : 1592B](1592B.cpp)
+3) [Codeforces : 1592B](1592B.cpp)
+
+<hr>
+<br>
+
+## 6) Author :- [shashwat11152](https://github.com/shashwat11152)
+
+Questions:- 
+1) [Codeforces : 352A](352A.cpp)
 
 <hr>
 <br>
