@@ -64,5 +64,6 @@ Questions:-
 
 Questions:-
 
-1. [Leetcode Question :- 1326_Minimum Number of Taps to Open to Water a Garden](1326_minimum_number_of_taps_to_water_a_garden.cpp)
-
+1. [Leetcode Question :- 45_Jump Game II](45_Jump-Game-II.cpp)
+2. [Leetcode Question :- 56_Merge Intervals](56_Merge-Intervals.cpp)
+3. [Leetcode Question :- 1326_Minimum Number of Taps to Open to Water a Garden](1326_minimum_number_of_taps_to_water_a_garden.cpp)
