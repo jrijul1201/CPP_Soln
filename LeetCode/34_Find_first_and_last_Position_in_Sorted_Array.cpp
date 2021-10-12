@@ -16,39 +16,52 @@ Example 3:
 Input: nums = [], target = 0
 Output: [-1,-1]
 
-
 */
 
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int n=nums.size();
-        if(n<1){
+        if(n<1)
+        {
             return {-1,-1}; 
         }
-        if(n==1){
-            if(nums[0]==target){
+        if(n==1)
+        {
+            if(nums[0]==target)
+            {
                 return {0,0};
-            }else{
+            }
+            else
+            {
                 return {-1,-1};
             }
         }
+
         int start=0;
         int end=n-1;
         int mid;
         int found=-1;
-        while(start<=end){
+
+        while(start<=end)//when the vlaue of start will become greater than that of the end the loop will terminate
+        {
             mid=(start+end)/2;
-            if(nums[mid]>target){
+            if(nums[mid]>target)
+            {
                 end=mid-1;
-            }else if(nums[mid]==target){
+            }
+            else if(nums[mid]==target)
+            {
                 found=1;
                 break;
-            }else{
+            }
+            else
+            {
                 start=mid+1;
             }
         }   
-        if(found==-1){
+        if(found==-1)
+        {
             return {-1,-1};
         }
 

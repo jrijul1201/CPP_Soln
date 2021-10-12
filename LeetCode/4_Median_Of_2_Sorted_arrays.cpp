@@ -36,7 +36,7 @@ public:
    
     
         int n2=nums2.size();
-        int n=n1+n2;
+        int n=n1+n2;// n is the  size of the final merged array 
         
         vector <double> merged;
         
@@ -90,11 +90,7 @@ while (i < n1)
         
     }
     return median;
-    
-    
-
-    
-    
+       
 }
         
     
