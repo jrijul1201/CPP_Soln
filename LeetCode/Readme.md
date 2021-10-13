@@ -22,6 +22,10 @@ Questions:-
 6. [Leetcode Question :- 81.Search in a Rotated Sorted ArrayII](81_Search_in_Rotated_Sorted_ArrayII.cpp)
 7. [Leetcode Question :- 807.Max Increase to keep city skyline](807_Max_Increase_to_keep_city_skyline.cpp)
 8. [Leetcode Question :- 1605.Find Valid Matrix given row and column sum](1605_Find_valid_matrix_given_row_and_column_sum.cpp)
+9. [Leetcode Question :- 42.Trapping Rain Water](42_Trapping_rain_water.cpp)
+10. [Leetcode Question :- 1095.Find in Mountain Array](1095_Find_in_mountain_array.cpp)
+11. [Leetcode Question :- 150.Evaluate Reverse Polish Notation](150_Evaluate_the_reverse_polish_notation.cpp)
+12. [Leetcode Question :- 1047. Remove All Adjacent Duplicates In String](1047_Remove_all_Adjacent_duplicates_in_string.cpp)
 
 ### Author :- [HarshitMittal01](https://github.com/HarshitMittal01)
 
@@ -37,14 +41,20 @@ Questions:-
 1. [Leetcode Question : 15.3 Sum](15.3-sum.cpp)
 2. [Leetcode Question : 20. Valid Parentheses](20.valid-parentheses.cpp)
 3. [Leetcode Question : 11 Container with most water](11.container-with-most-water.cpp)
+4. [Leetcode Question : 37 Sudoku Solver](37.sudoku-solver.cpp)
+5. [Leetcode Question : 51 N-queens](51.n-queens.cpp)
+6. [Leetcode Question : 19 Remove nth node from the end of the list](19.remove-nth-node-from-end-of-list.cpp)
+
 
 ### Author :- [AmitThakur045](https://github.com/AmitThakur045)
 
 Questions:-
 
-1. [Leetcode Question : 102_Binary_Tree_Level_Order_Traversal](102_Binary_Tree_Level_Order_Traversal.cpp)
-2. [Leetcode Question : 141_Linked_List_Cycle](141_Linked_List_Cycle.cpp)
-3. [Leetcode Question : 566_Reshape_the_matrix](566_Reshape_the_matrix.cpp)
+1. [Leetcode Question : 102 Binary Tree Level Order Traversal](102_Binary_Tree_Level_Order_Traversal.cpp)
+2. [Leetcode Question : 141 Linked List Cycle](141_Linked_List_Cycle.cpp)
+3. [Leetcode Question : 566 Reshape the matrix](566_Reshape_the_matrix.cpp)
+4. [Leetcode Question : 208 Implement Trie (Prefix Tree)](208_Implement_Trie_(Prefix_Tree).cpp)
+5. [Leetcode Question : 201 Bitwise AND of Numbers Range](201_Bitwise_AND_of_Numbers_Range.cpp)
 
 ### Author :- [Abhilash Chaparala](https://github.com/abhilashchaparala)
 
@@ -52,9 +62,26 @@ Questions:-
 
 1. [Leetcode Question :- 30_Substring with Concatenation of All Words](30_Substring_with_Concatenation_of_All_Words.cpp)
 
+
 ### Author :- [Nehal Agrawal](https://github.com/NehalAgrawal186)
 
 Questions:-
 
 1. [Leetcode Question :- 37_Sudoku Solver](37_SudokuSolver.cpp)
+
+
+### Author :- [Aditya Chandra](https://github.com/adityachandra1)
+
+Questions:-
+
+1. [Leetcode Question :- 45_Jump Game II](45_Jump-Game-II.cpp)
+2. [Leetcode Question :- 56_Merge Intervals](56_Merge-Intervals.cpp)
+3. [Leetcode Question :- 1326_Minimum Number of Taps to Open to Water a Garden](1326_minimum_number_of_taps_to_water_a_garden.cpp)
+
+### Author :- [vivek-0110](https://github.com/vivek-0110)
+
+Questions :-
+
+1. [Leetcode Problem :- 4_Median of Two Sorted Arrays](4_Median_Of_2_sorted_arrays.cpp)
+2. [Leetcode Problem :- 34_Find First and Last Position of Element in Sorted Array](34_Find_first_and_last_position_in_Sorted_Array.cpp)
 

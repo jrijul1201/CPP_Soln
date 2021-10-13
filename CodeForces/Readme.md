@@ -34,6 +34,8 @@ Questions:-
 
 Questions:- 
 1) [Codeforces : 1560C](1560C.cpp)
+2) [Codeforces : 1560A](1560A.cpp)
+3) [Codeforces : 1598A](1598A.cpp)
 
 <hr>
 <br>
@@ -43,5 +45,26 @@ Questions:-
 Questions:- 
 1) [Codeforces : 1539B](1539B.cpp)
 
+<hr>
+<br>
+
+## 5) Author :- [jrijul1201](https://github.com/jrijul1201)
+
+Questions:- 
+1) [Codeforces : 1598B](1598B.cpp)
+2) [Codeforces : 4C](4C.cpp)
+3) [Codeforces : 1592B](1592B.cpp)
+4) [Codeforces : 1592A](1592A.cpp)
+
+<hr>
+<br>
+
+## 6) Author :- [shashwat11152](https://github.com/shashwat11152)
+
+Questions:- 
+1) [Codeforces : 352A](352A.cpp)
+2) [Codeforces : 445A](445A.cpp)
+3) [Codeforces : 218B](218B.cpp)
+4) [Codeforces : 58A](58A.cpp)
 <hr>
 <br>
