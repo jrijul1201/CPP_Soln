@@ -69,7 +69,7 @@ Questions:-
 <hr>
 <br>
 
-## 6) Author :- [jesuswr](https://github.com/jesuswr)
+## 7) Author :- [jesuswr](https://github.com/jesuswr)
 
 Questions:- 
 1) [Codeforces : 1572C](1572C.cpp)
