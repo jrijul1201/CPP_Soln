@@ -68,3 +68,11 @@ Questions:-
 4) [Codeforces : 58A](58A.cpp)
 <hr>
 <br>
+
+## 7) Author :- [jesuswr](https://github.com/jesuswr)
+
+Questions:- 
+1) [Codeforces : 1572C](1572C.cpp)
+2) [Codeforces : 786B.cpp](786B.cpp)
+<hr>
+<br>
