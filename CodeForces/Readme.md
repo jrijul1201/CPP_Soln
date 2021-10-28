@@ -76,5 +76,7 @@ Questions:-
 2) [Codeforces : 1529B](1529B.cpp)
 3) [Codeforces : 1560B](1560B.cpp)
 4) [Codeforces : 271A](271A.cpp)
+5) [Codeforces : 266B](266B.cpp)
+6) [Codeforces : 110A](110A.cpp)
 <hr>
 <br>
