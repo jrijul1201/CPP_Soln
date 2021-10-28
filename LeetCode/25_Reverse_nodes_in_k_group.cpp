@@ -1,7 +1,7 @@
 /* 
     Reverse nodes in k groups
   
-    Difficulty :- Medium
+    Difficulty :- Hard
     Ref :- https://leetcode.com/problems/reverse-nodes-in-k-group/
     Author :- Arjyo Chakraborty [https://github.com/arjyo851]
 */
