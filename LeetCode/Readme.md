@@ -83,4 +83,6 @@ Questions:-
 
 1. [Leetcode Question :- 31 Next Permutation](31_Next_Permutation.cpp)
 2. [Leetcode Question :- 287 Find the duplicate Number](287_Find_the_Duplicate_Number.cpp)
+4. [Leetcode Question :- 25 Reverse nodes in k group](25_Reverse_nodes_in_k_group.cpp)
+3. [Leetcode Question :- 50 Find power of x raised to the power n](50_pow(x,n).cpp)
 
