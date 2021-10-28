@@ -68,3 +68,13 @@ Questions:-
 4) [Codeforces : 58A](58A.cpp)
 <hr>
 <br>
+
+## 7) Author :- [MeenalPatidar](https://github.com/MeenalPatidar)
+
+Questions:- 
+1) [Codeforces : 133A](133A.cpp)
+2) [Codeforces : 1529B](1529B.cpp)
+3) [Codeforces : 1560B](1560B.cpp)
+4) [Codeforces : 271A](271A.cpp)
+<hr>
+<br>
