@@ -44,6 +44,7 @@ Questions:-
 
 Questions:- 
 1) [Codeforces : 1539B](1539B.cpp)
+2) [Codeforces : 1509B](1509B.cpp)
 
 <hr>
 <br>
