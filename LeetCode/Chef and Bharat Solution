@@ -1,0 +1,76 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define vi vector<int>
+#define vvi vector<vi>
+#define pii pair<int, int>
+#define vii vector<pii>
+#define rep(i, a, b) for (int i = a; i < b; i++)
+#define ff first
+#define ss second
+#define ll long long
+#define mod 1000000007
+
+ll binpow(ll a, ll b)
+{
+    ll res = 1;
+    while (b != 0)
+    {
+        if (b % 2 == 0)
+        {
+            a = ((a % mod) * (a % mod)) % mod;
+            b = floor(b / 2);
+        }
+        else
+        {
+            res = ((res % mod) * (a % mod)) % mod;
+            b = b - 1;
+        }
+    }
+    return res;
+}
+ll chefora(ll n)
+{
+    ll chefnum = n;
+    ll retnum = 0;
+    if (n < 10)
+    {
+        retnum = chefnum;
+    }
+    else if (n >= 10)
+    {
+        n /= 10;
+        while (n != 0)
+        {
+            chefnum = chefnum * 10 + n % 10;
+            n /= 10;
+        }
+        retnum = chefnum;
+    }
+    return retnum;
+}
+
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
+    ll arr[100001] = {0};
+    ll presum[100001] = {0};
+    for (int i = 1; i < 100001; i++)
+    {
+        arr[i] = chefora(i);
+        presum[i] = presum[i - 1] + arr[i];
+    }
+    int t;
+    cin >> t;
+
+    while (t--)
+    {
+        ll l, r;
+        cin >> l>> r;
+        ll to_be_raised = presum[r] - presum[l];
+        cout << binpow(arr[l], to_be_raised) << "\n";
+    }
+    return 0;
+}
