@@ -1,0 +1,88 @@
+#include<bits/stdc++.h>
+#include<string.h>
+#include<set>
+#include<math.h>
+using namespace std;
+int main()
+{
+    int a,b,k,t,l,y,r,i;
+    cin>>t;
+    string s;
+    while(t--)
+    {
+        cin>>k;
+        cin>>s;
+        a=0;
+        l=s.length();
+        for(i=0;i<l;i++)
+        {
+            if(s[i]=='1'||s[i]=='4'||s[i]=='6'||s[i]=='8'||s[i]=='9')
+            {
+                a=1;
+                cout<<1<<endl;
+                cout<<s[i]<<endl;
+                break;
+            }
+        }
+        if(a==0)
+        {
+            for(i=0;i<l-1;i++)
+            {
+                if(s[i+1]=='2'|| s[i+1]=='5')
+                {
+                        cout<<2<<endl;
+                        cout<<s[i]<<s[i+1]<<endl;
+                    a=1;
+                    break;
+                }
+            }
+        }
+        if(a==0)
+        {
+            y=s.find('2');
+            if(y!=-1)
+            {
+                r=s.find('7',y);
+                if(r!=-1)
+                {
+                    a=1;
+                    cout<<2<<endl;
+                    cout<<27<<endl;
+                }
+            }
+        }
+        if(a==0)
+        {
+            y=s.find('5');
+            if(y!=-1)
+            {
+                r=s.find('7',y);
+                if(r!=-1)
+                {
+                    a=1;
+                    cout<<2<<endl;
+                    cout<<57<<endl;
+                }
+            }
+        }
+        if(a==0)
+        {
+            y=0;r=0;
+            for(i=0;i<l;i++)
+            {
+                if(s[i]=='7'){y+=1;}
+                if(s[i]=='3'){r+=1;}
+            }
+            if(y>1)
+            {
+                cout<<2<<endl;
+                cout<<77<<endl;
+            }
+            else if(r>1)
+            {
+                cout<<2<<endl;
+                cout<<33<<endl;
+            }
+        }
+    }
+}
