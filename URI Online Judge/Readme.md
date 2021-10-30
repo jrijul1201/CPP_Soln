@@ -22,3 +22,8 @@ Questions:-
 ## 2) Author :- [Goldy-Singh](https://github.com/Goldy-Singh)
 Questions:-
 1) [URI : 1009](1009.cpp)
+
+## 2) Author :- [Aryansh085](https://github.com/Aryansh085)
+Questions:-
+1) [URI : 1168](1168.cpp)
+2) [URI : 1175](1175.cpp)
