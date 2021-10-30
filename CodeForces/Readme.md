@@ -72,6 +72,8 @@ Questions:-
 
 ## 7) Author :- [MeenalPatidar](https://github.com/MeenalPatidar)
 
+
+
 Questions:- 
 1) [Codeforces : 133A](133A.cpp)
 2) [Codeforces : 1529B](1529B.cpp)
@@ -79,5 +81,15 @@ Questions:-
 4) [Codeforces : 271A](271A.cpp)
 5) [Codeforces : 266B](266B.cpp)
 6) [Codeforces : 110A](110A.cpp)
+<hr>
+<br>
+
+## 8) Author :- [Aryansh Singla](https://github.com/Aryansh085)
+
+
+Questions:- 
+1) [Codeforces : 1562A](1562A.cpp)
+2) [Codeforces : 1562B](1562B.cpp)
+3) [Codeforces : 1562C](1562C.cpp)
 <hr>
 <br>
