@@ -98,3 +98,12 @@ Questions:-
 
 <hr>
 <br>
+
+## 4) Author :- [Devansh0901](https://github.com/Devansh0901)
+
+Questions:- 
+1) [Codeforces : 1557A](1557A.cpp)
+2) [Codeforces : 4A](4A.cpp)
+
+<hr>
+<br>
