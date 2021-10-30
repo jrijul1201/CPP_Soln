@@ -84,7 +84,7 @@ Questions:-
 <hr>
 <br>
 
-## 8) Author :- [Aryansh Singla](https://github.com/Aryansh085)
+## 8) Author :- [Aryansh085](https://github.com/Aryansh085)
 
 
 Questions:- 
