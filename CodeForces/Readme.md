@@ -99,7 +99,7 @@ Questions:-
 <hr>
 <br>
 
-## 4) Author :- [Devansh0901](https://github.com/Devansh0901)
+## 10) Author :- [Devansh0901](https://github.com/Devansh0901)
 
 Questions:- 
 1) [Codeforces : 1557A](1557A.cpp)
