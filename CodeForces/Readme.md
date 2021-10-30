@@ -88,5 +88,6 @@ Questions:-
 1) [Codeforces : 1512A](1512A.cpp)
 2) [Codeforces : 1593A](1593A.cpp)
 3) [Codeforces : 1594A](1594A.cpp)
+4) [Codeforces : 1506A](1506A.cpp)
 <hr>
 <br>
