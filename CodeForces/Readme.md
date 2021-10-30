@@ -81,3 +81,11 @@ Questions:-
 6) [Codeforces : 110A](110A.cpp)
 <hr>
 <br>
+
+## 8) Author :- [Aryansh085](https://github.com/Aryansh085)
+
+Questions:- 
+1) [Codeforces : 1561A](1561A.cpp)
+
+<hr>
+<br>
