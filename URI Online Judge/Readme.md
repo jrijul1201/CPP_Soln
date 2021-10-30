@@ -27,3 +27,9 @@ Questions:-
 Questions:-
 1) [URI : 1168](1168.cpp)
 2) [URI : 1175](1175.cpp)
+
+
+## 4) Author :- [Snigdha02](https://github.com/Snigdha02)
+Questions:-
+1) [URI : 1035](1035.cpp)
+2) [URI : 1837](1837.cpp)
