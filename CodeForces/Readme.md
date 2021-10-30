@@ -96,5 +96,10 @@ Questions:-
 3) [Codeforces : 1594A](1594A.cpp)
 4) [Codeforces : 1506A](1506A.cpp)
 
+## 10) Author :- [VanshKodesia](https://github.com/vkodesia21)
+
+Questions:-
+1) [Codeforces : 1557A](1557A.cpp)
+
 <hr>
 <br>
