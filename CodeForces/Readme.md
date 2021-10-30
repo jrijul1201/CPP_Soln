@@ -82,12 +82,19 @@ Questions:-
 <hr>
 <br>
 
-## 8) Author :- [khushibaghel](https://github.com/khushibaghel)
+## 8) Author :- [Aryansh085](https://github.com/Aryansh085)
+
+Questions:- 
+1) [Codeforces : 1561A](1561A.cpp)
+
+
+## 9) Author :- [khushibaghel](https://github.com/khushibaghel)
 
 Questions:- 
 1) [Codeforces : 1512A](1512A.cpp)
 2) [Codeforces : 1593A](1593A.cpp)
 3) [Codeforces : 1594A](1594A.cpp)
 4) [Codeforces : 1506A](1506A.cpp)
+
 <hr>
 <br>
