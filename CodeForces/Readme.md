@@ -118,7 +118,7 @@ Questions:-
 4) [Codeforces : 1159B](1159B.cpp)
 5) [Codeforces : 1141B](1141B.cpp)
 6) [Codeforces : 1147A](1147A.cpp)
-7) [odeforces : 4A](4A.cpp)
+7) [Codeforces : 4A](4A.cpp)
 
 <hr>
 <br>
