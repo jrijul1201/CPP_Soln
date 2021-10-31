@@ -87,6 +87,7 @@ Questions:-
 Questions:- 
 1) [Codeforces : 1561A](1561A.cpp)
 2) [Codeforces : 1542A](1542A.cpp)
+3) [Codeforces : 1521A](1521A.cpp)
 
 
 
