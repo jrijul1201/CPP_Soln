@@ -46,6 +46,7 @@ Questions:-
 1) [Codeforces : 1539B](1539B.cpp)
 2) [Codeforces : 1509B](1509B.cpp)
 3) [Codeforces : 1593B](1593B.cpp)
+4) [Codeforces : 1593C](1593C.cpp)
 
 <hr>
 <br>
