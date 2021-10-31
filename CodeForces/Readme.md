@@ -106,3 +106,12 @@ Questions:-
 
 <hr>
 <br>
+
+## 11) Author :- [Devansh0901](https://github.com/Devansh0901)
+
+Questions:- 
+1) [Codeforces : 960A](960A.cpp)
+2) [Codeforces : 1042A](1042A.cpp)
+
+<hr>
+<br>
