@@ -120,3 +120,11 @@ Questions:-
 
 <hr>
 <br>
+
+## 12) Author :- [Sukhija-Aniket](https://github.com/Sukhija-Aniket)
+
+Questions:- 
+1) [Codeforces : 1603A](1603A.cpp)
+
+<hr>
+<br>
