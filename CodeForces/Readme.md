@@ -86,6 +86,8 @@ Questions:-
 
 Questions:- 
 1) [Codeforces : 1561A](1561A.cpp)
+2) [Codeforces : 1542A](1542A.cpp)
+
 
 
 ## 9) Author :- [khushibaghel](https://github.com/khushibaghel)
