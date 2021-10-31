@@ -115,6 +115,7 @@ Questions:-
 2) [Codeforces : 1042A](1042A.cpp)
 3) [Codeforces : 1158A](1158A.cpp)
 4) [Codeforces : 1159B](1159B.cpp)
+5) [Codeforces : 1141B](1141.cpp)
 
 <hr>
 <br>
