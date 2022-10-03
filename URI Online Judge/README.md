@@ -41,3 +41,8 @@ Questions:-
 3) [URI : 2149](2149.cpp)
 4) [URI : 1980](1980.cpp)
 5) [URI : 2217](2217.cpp)
+
+## 6) Author :- [jrijul1201](https://github.com/jrijul1201)
+Questions:-
+1) [URI : 3117](3117.cpp)
+
