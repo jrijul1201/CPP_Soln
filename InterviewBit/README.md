@@ -15,4 +15,5 @@
 Questions:-
 
 1. [InterviewBit Question :- Longest common subsequence ](1_longest_common_subsequence.cpp)
-2. [InterviewBit Question :- Longest valid parenthesis ](1_longest_valid_parenthesis.cpp)
+2. [InterviewBit Question :- Longest valid parenthesis ](2_longest_valid_parenthesis.cpp)
+2. [InterviewBit Question :- Longest palindromic subsequence ](3_longest_palindromic_subsequence.cpp)
