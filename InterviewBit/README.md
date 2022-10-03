@@ -24,8 +24,9 @@ Questions:-
 
 Questions:-
 
-4. [InterviewBit Question :- Inorder traversal of BST ](4_inorder_traversal.cpp)
-5. [InterviewBit Question :- Postorder traversal of BST ](5_postorder_traversal.cpp)
-6. [InterviewBit Question :- Preorder traversal of BST ](6_preorder_traversal.cpp)
-7. [InterviewBit Question :- Vertical Order traversal of BST ](7_vertical_order.cpp)
-8. [InterviewBit Question :- Zig Zag traversal of BST ](8_zig_zag_traversal.cpp)
+4. [InterviewBit Question :- Inorder traversal of BT ](4_inorder_traversal.cpp)
+5. [InterviewBit Question :- Postorder traversal of BT ](5_postorder_traversal.cpp)
+6. [InterviewBit Question :- Preorder traversal of BT ](6_preorder_traversal.cpp)
+7. [InterviewBit Question :- Vertical Order traversal of BT ](7_vertical_order.cpp)
+8. [InterviewBit Question :- Zig Zag traversal of BT ](8_zig_zag_traversal.cpp)
+9. [InterviewBit Question :- Reverse Level Order traversal of BT ](9_reverse_level_order.cpp)
