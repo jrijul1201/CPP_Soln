@@ -33,3 +33,7 @@ Questions:-
 Questions:-
 1) [URI : 1035](1035.cpp)
 2) [URI : 1837](1837.cpp)
+
+## 5) Author :- [jvyom](https://github.com/jvyom)
+Questions:-
+1) [URI : 2752](2752.cpp)
