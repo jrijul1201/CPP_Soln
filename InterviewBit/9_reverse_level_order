@@ -1,0 +1,49 @@
+/*  
+    Difficulty :- medium
+    Ref :- https://www.interviewbit.com/problems/reverse-level-order/
+    Author :- palaksharma12 [https://github.com/palaksharma12]
+*/
+/**
+ * Definition for binary tree
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+vector<int> Solution::solve(TreeNode* A) {
+    stack <TreeNode *> S;
+    vector <TreeNode *> Q;
+    Q.push_back(A);
+    // Do something like normal level order traversal order. Following are the
+    // differences with normal level order traversal
+    // 1) Instead of printing a node, we push the node to stack
+    // 2) Right subtree is visited before left subtree
+    while (Q.size() != 0)
+    {
+        /* Dequeue node and make it root */
+        TreeNode *temp = Q[0];
+        //Q.pop();
+        Q.erase(Q.begin());
+        S.push(temp);
+
+        /* Enqueue right child */
+        if (temp->right)
+            Q.push_back(temp->right); // NOTE: RIGHT CHILD IS ENQUEUED BEFORE LEFT
+
+        /* Enqueue left child */
+        if (temp->left)
+            Q.push_back(temp->left);
+    }
+
+    // Now pop all items from stack one by one and print them
+    vector<int> ans;
+    while (S.empty() == false)
+    {
+        TreeNode *temp = S.top();
+        ans.push_back(temp->val);
+        S.pop();
+    }
+    return ans;
+}
