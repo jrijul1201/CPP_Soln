@@ -1,0 +1,24 @@
+/*  
+    Difficulty :- hard
+    Ref :- https://www.interviewbit.com/problems/longest-palindromic-subsequence/
+    Author :- plksharma12 [https://github.com/plksharma12]
+*/
+
+int lps(string s,vector<vector<int>>& dp,int i,int j){
+    if(i==j) return dp[i][j]=1;
+
+    if(s[i]==s[j] && j-i==1) return dp[i][j]=2;
+
+    if(dp[i][j]!=-1) return dp[i][j];
+
+    if(s[i]==s[j]) return dp[i][j]=2+ lps(s,dp,i+1,j-1);
+
+    return dp[i][j]=max(lps(s,dp,i+1,j),lps(s,dp,i,j-1));
+}
+
+
+int Solution::solve(string A) {
+    int n=A.size();
+    vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
+    return lps(A,dp,0,n-1);
+}
