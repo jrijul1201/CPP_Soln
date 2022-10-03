@@ -45,4 +45,5 @@ Questions:-
 ## 6) Author :- [jrijul1201](https://github.com/jrijul1201)
 Questions:-
 1) [URI : 3117](3117.cpp)
+2) [URI : 3055](3055.cpp)
 
