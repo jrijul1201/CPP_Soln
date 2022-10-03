@@ -10,10 +10,18 @@
 
 <br>
 
-### Author :- [plksharma12](https://github.com/plksharma)
+### Author :- [plksharma12](https://github.com/plksharma12)
 
 Questions:-
 
 1. [InterviewBit Question :- Longest common subsequence ](1_longest_common_subsequence.cpp)
 2. [InterviewBit Question :- Longest valid parenthesis ](2_longest_valid_parenthesis.cpp)
-2. [InterviewBit Question :- Longest palindromic subsequence ](3_longest_palindromic_subsequence.cpp)
+3. [InterviewBit Question :- Longest palindromic subsequence ](3_longest_palindromic_subsequence.cpp)
+
+<br>
+
+### Author :- [palaksharma12](https://github.com/palaksharma12)
+
+Questions:-
+
+4. [InterviewBit Question :- Inorder traversal of BST ](4_inorder_traversal.cpp)
