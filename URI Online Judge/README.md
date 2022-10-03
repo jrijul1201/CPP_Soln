@@ -37,3 +37,4 @@ Questions:-
 ## 5) Author :- [jvyom](https://github.com/jvyom)
 Questions:-
 1) [URI : 2752](2752.cpp)
+2) [URI : 1867](1867.cpp)
