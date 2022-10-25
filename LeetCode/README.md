@@ -86,3 +86,9 @@ Questions:-
 4. [Leetcode Question :- 25 Reverse nodes in k group](25_Reverse_nodes_in_k_group.cpp)
 3. [Leetcode Question :- 50 Find power of x raised to the power n](50_pow(x,n).cpp)
 
+### Author :- [Ashutosh Sharma](https://github.com/ashu3103)
+
+Questions:-
+
+1. [Leetcode Question :- 787 Cheapest Flights Within k stops](787_cheapest_k_flights.cpp)
+2. [Leetcode Question :- 785 Is Graph Bipartite?](785_IsGraph_Bipartite.cpp)
